@@ -1,0 +1,24 @@
+.flr {
+  float: right;
+}
+
+.slider img {
+  height: 450px;
+  object-fit: cover;
+}
+.pointer {
+  cursor: pointer;
+}
+.cardBtn {
+  background: none !important;
+  border: none;
+  padding: 0 !important;
+  font-family: arial, sans-serif;
+  color: #069;
+  text-decoration: none;
+  cursor: pointer;
+}
+button:disabled,
+button[disabled] {
+  border: none;
+}
